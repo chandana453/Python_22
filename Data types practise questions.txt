@@ -1,0 +1,57 @@
+Lists:
+
+Python Program to Find Largest Number in a List
+Python Program to Find Second Largest Number in a List
+Python Program to Print Largest Even and Largest Odd Number in a List
+Python Program to Split Even and Odd Elements into Two Lists
+Python Program to Find Average of a List
+Python Program to Print Sum of Negative Numbers, Positive Even & Odd Numbers in a List
+Python Program to Count Occurrences of Element in List
+Python Program to Find the Sum of Elements in a List using Recursion
+Python Program to Find the Length of a List using Recursion
+Python Program to Merge Two Lists and Sort it
+Python Program to Remove Duplicates from a List
+Python Program to Swap the First and Last Element in a List
+Python Program to Sort a List According to the Second Element in Sublist
+Python Program to Return the Length of the Longest Word from the List of Words
+Python Program to Find the Number Occurring Odd Number of Times in a List
+Python Program to Generate Random Numbers from 1 to 20 and Append Them to the List
+Python Program to Remove the ith Occurrence of the Given Word in a List
+Python Program to Find the Cumulative Sum of a List
+Python Program to Find the Union of Two Lists
+Python Program to Find the Intersection of Two Lists
+Python Program to Flatten a List without using Recursion
+Python Program to Find the Total Sum of a Nested List Using Recursion
+Python Program to Flatten a Nested List using Recursion
+
+
+Strings:
+
+Python Program to Check if a String is a Pangram or Not
+Python Program to Remove Odd Indexed Characters in a string
+Python Program to Remove the nth Index Character from a Non-Empty String
+Python Program to Replace All Occurrences of ‘a’ with $ in a String
+Python Program to Replace Every Blank Space with Hyphen in a String
+Python Program to Reverse a String using Recursion
+Python Program to Reverse a String Without using Recursion
+Python Program to Determine How Many Times a Given Letter Occurs in a String 
+Python Program to Find the Length of a String without Library Function
+Python Program to Count the Number of Words and Characters in a String
+Python Program to Count Number of Lowercase Characters in a String
+Python Program to Count the Number of Vowels in a String
+Python Program to Count Number of Uppercase and Lowercase Letters in a String
+Python Program to Count the Number of Digits and Letters in a String
+
+
+Dict :
+
+Python Program to Check if a Key Exists in a Dictionary or Not
+Python Program to Add a Key-Value Pair to the Dictionary
+Python Program to Find the Sum of All the Items in a Dictionary
+Python Program to Multiply All the Items in a Dictionary
+Python Program to Remove a Key from a Dictionary
+Python Program to Concatenate Two Dictionaries
+Python Program to Map Two Lists into a Dictionary
+Python Program to Create a Dictionary with Key as First Character and Value as Words Starting with that Character
+Python Program to Create Dictionary that Contains Number
+Python Program to Count the Frequency of Each Word in a String using Dictionary
