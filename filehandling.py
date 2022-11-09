@@ -43,4 +43,21 @@ for line in file1:
  print(word_change)
 #Python Program to Counts the Number of Times a Letter Appears in the Text File
 file1= open(r"C:\Users\pmr\Desktop\gitam\sample.txt" ,"r+")
-for
+for line in file1:
+    words = line.split(",")
+    for i in words :
+        for letters in i:
+            if (letters==d):
+                g = g + 1
+print("the reuired count of letter:", g)
+#Python Program to Extract Numbers from Text File
+file1= open(r"C:\Users\pmr\Desktop\gitam\sample.txt" ,"r+")
+value = file1.readlines()
+d = 0
+for line in value:
+    for i in line:
+        if i.isdigit()== True:
+            d+=int(i)
+print("the numbers from text files: ",d)            
+            
+            
