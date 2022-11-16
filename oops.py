@@ -77,16 +77,22 @@ class Area:
 obj = Area(23,12)
 print("areaof rectangle:", obj.rec())
 #python program to implement static method and class method and instance method
-class Car:
-
-    def __init__(self, Model,company,color):
-        self.Model = Model
-        self.company = company
-        self.color = color
-    def speed (self,distance):
-        print("the distance travelled:",Car.format(distance))
-car_obj = Car("suv","AUDI","Black")
-print(car_obj.Model)
-6
+class Mobile :
+    slot = "c-type"
+    def __init__(self,company,cam):
+        self.company=company
+        self.cam = cam
+    def calling (self,number):
+        print("callling....{}".format(number))
+    @classmethod
+    def get_power(cls):
+        return cls.slot
+    @staticmethod
+    def caution():
+        print("use me in a proper way")
+obj1 = Mobile("nokia","10")
+obj1.calling(7094389972)
+print(obj1.company,obj1.cam,obj1.get_power())
+Mobile.caution()
 
 
