@@ -11,7 +11,15 @@ words = str.split()
 wfreq=[words.count(w) for w in words]
 print(dict(zip(words,wfreq)))
 
+str="apple"
+d={}
+for i in str:
+    d[i]=d.get(i,0)+1
+print(d)
 
+from collections import Counter
+str="banana"
+print(Counter(str))
 
 
 

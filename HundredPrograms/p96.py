@@ -11,5 +11,5 @@ Use list[::2] to iterate a list by step 2.
 '''
 
 s=input()
-s=s[::2]
-print(s)
+st=s[::2]
+print(st)

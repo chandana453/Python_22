@@ -1,0 +1,5 @@
+Hello, Python programmer Welcome to the programming world!
+The .readlines() method always gives a list of all the lines of our file as list elements.
+The .readline() method prints each line from our file, every time we execute this function, until the end of the file is reached.
+EXIT!
+Helloooooo!!

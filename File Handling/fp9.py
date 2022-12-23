@@ -11,6 +11,7 @@ f.close()
 f=open("myfile.txt","r")
 count=0
 content=f.readlines()
+#print(content)
 for line in content:
     for i in line:
         if i.isdigit():

@@ -11,9 +11,11 @@ to get key/value pairs.
 
 
 def printDict():
-    d = dict()
-    for i in range(1, 21):
-        d[i] = i ** 2
-    for k in d.keys():
-        print(k)
+    # d = dict()
+    # for i in range(1, 21):
+    #     d[i] = i ** 2
+    # for k in d.keys():
+    #     print(k)
+    d={x: x**2 for x in range(1,21)}
+    print(d)
 printDict()

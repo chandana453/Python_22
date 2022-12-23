@@ -1,0 +1,1 @@
+This is the Practical ExamplenIt performs reading, writing and closing operations of filen

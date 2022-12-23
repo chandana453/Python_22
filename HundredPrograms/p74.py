@@ -6,4 +6,4 @@ Use random.random() to generate a random float in [0,1].
 '''
 
 import random
-print(random.random()*100)
+print(random.uniform(10,100))

@@ -12,3 +12,10 @@ def countDigLet(str):
     print("No of letter:", d["Letters"])
 
 countDigLet("str123ing34")
+
+
+str='mounika'
+d={}
+for i in str:
+    d[i]=d.get(i,0)+1
+print(d)

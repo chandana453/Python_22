@@ -10,3 +10,12 @@ def printValue(n):
     print(str(n))
 
 printValue(3)
+
+#remove odd indexed characters
+a="Mounika"
+st=a[::2]
+print(st)
+
+#reverse
+s=a[::-1]
+print(s)

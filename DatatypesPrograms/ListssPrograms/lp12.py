@@ -14,6 +14,7 @@ print(swapList(list1))
 def swaplists(li1):
     li1[0],li1[-1]=li1[-1],li1[0]
     return li1
+
 li=[7,5,9,8,6,2,3,6]
 print(swaplists(li))
 

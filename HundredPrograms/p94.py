@@ -21,10 +21,15 @@ dic = {}
 s=input()
 for i in s:
   dic[i] = dic.get(i,0)+1
-print('\n'.join(['%s,%s' % (k, v) for k, v in dic.items()]))
+
+for k,v in dic.items():
+  print(k,v)
+
+#print('\n'.join(['%s,%s' % (k, v) for k, v in dic.items()]))
 # for i in s:
 #     if i not in dic:
 #         dic[i]=1
 #     else:
 #         dic[i]+=1
 # print(dic)
+

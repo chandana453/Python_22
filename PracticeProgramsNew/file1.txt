@@ -1,0 +1,48 @@
+Python 1Python 2Python 3
+1Python 1Python 2Python 3
+2Python 1Python 2Python 3
+3Python 1
+Python 2
+Python 3
+
+6Python 1
+Python 2
+Python 3
+
+10Python 1
+Python 2
+Python 3
+
+14Python 1
+Python 2
+Python 3
+
+18Python 1
+Python 2
+Python 3
+
+22Python 1
+Python 2
+Python 3
+
+26Python 1
+Python 2
+Python 3
+
+30Python 1
+Python 2
+Python 3
+
+34Python 1
+Python 2
+Python 3
+
+38Python 1
+Python 2
+Python 3
+
+42Python 1
+Python 2
+Python 3
+
+46

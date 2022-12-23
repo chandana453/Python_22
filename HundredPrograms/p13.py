@@ -18,6 +18,7 @@ for c in s:
         d["DIGITS"]+=1
     elif c.isalpha():
         d["LETTERS"]+=1
-else: pass
+    else:
+        pass
 print("LETTERS", d["LETTERS"])
 print("DIGITS", d["DIGITS"])
