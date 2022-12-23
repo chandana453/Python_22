@@ -2,7 +2,7 @@ import pickle
 
 path = "../text_file/book.dat"
 
-
+##to add data to book.dat file
 def create_file(path):
     f = open(path, "ab")
 
@@ -21,6 +21,8 @@ def create_file(path):
 create_file(path)
 
 
+
+##check no. of books written by the author
 def countRec(Author):
     count = 0
     with open(path, "rb") as f:
